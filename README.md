@@ -7,5 +7,3 @@ Problems solved:
 Problems not solved:
 
 1. [exatlom](https://training.olinfo.it/#/task/ois_exatlon/statement)
-
-# rickie puzza
