@@ -200,3 +200,65 @@
       </tr>
    </tbody>
 </table>
+
+### Round 4
+
+<table>
+   <thead>
+      <tr>
+         <th align="center">Task</th>
+         <th align="center">Score</th>
+         <th align="center">Training</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td align="center">confetti</td>
+         <td align="center">80</td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td align="center">forum</td>
+         <td align="center">70</td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td align="center">gameshow</td>
+         <td align="center">100</td>
+         <td align="center"><strong>✔</strong></td>
+      </tr>
+      <tr>
+         <td align="center">islands</td>
+         <td align="center">100</td>
+         <td align="center"><strong>✔</strong></td>
+      </tr>
+      <tr>
+         <td align="center">polygon</td>
+         <td align="center">30</td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td align="center">raid</td>
+         <td align="center">100</td>
+         <td align="center"><strong>✔</strong></td>
+      </tr>
+      <tr>
+         <td align="center">ropes</td>
+         <td align="center">100</td>
+         <td align="center"><strong>✔</strong></td>
+      </tr>
+      <tr>
+         <td align="center">time</td>
+         <td align="center">100</td>
+         <td align="center"><strong>✔</strong></td>
+      </tr>
+      <tr>
+         <td align="center"><strong>Total</strong></td>
+         <td align="center"><strong>680</strong></td>
+      </tr>
+      <tr>
+         <td align="center"><strong>Rank</strong></td>
+         <td align="center"><strong>4</strong></td>
+      </tr>
+   </tbody>
+</table>
